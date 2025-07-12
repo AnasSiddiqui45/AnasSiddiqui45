@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnasSiddiqui45
-- 👀 I’m interested in Front-end Devloping
-- 🌱 I’m currently learning Bachelor of Computer Science
+- 👀 I’m interested in Data science and freelancing in Full stack development 
+- 🌱 Graduated in Bachelor of Science in Computer Science
 - 📫 How to reach me shaikhalam9938@gmail.com  
 
 <!---
